@@ -51,7 +51,7 @@ const manualExamples = [
       description: "Checking uppercase vs lowercase",
       dictionary: ["casa", "cama", "carro", "gato", "pato"],
       word: "CASA",
-      expectedResult: null // Case sensitive
+      expectedResult: null
     }
   ];
   
