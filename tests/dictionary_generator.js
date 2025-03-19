@@ -2,7 +2,7 @@ const fs = require('fs');
 
 function generateDictionaryDataset() {
   const commonWords = [
-    // Substantivos
+    
     "casa", "tempo", "ano", "dia", "vida", "homem", "mundo", "mão", "coisa", "trabalho",
     "pessoa", "lugar", "mulher", "caso", "país", "ponto", "governo", "problema", "grupo", "parte",
     "cidade", "empresa", "noite", "água", "forma", "momento", "sistema", "caminho", "nome", "número",
@@ -11,13 +11,13 @@ function generateDictionaryDataset() {
     "porta", "rua", "questão", "olho", "amor", "arte", "corpo", "papel", "razão", "vez",
     "tipo", "mês", "chão", "pé", "campo", "medo", "mesa", "braço", "início", "guerra",
     
-    // Verbos comuns
+    
     "ser", "ter", "fazer", "estar", "poder", "dizer", "ir", "ver", "dar", "saber",
     "querer", "dever", "falar", "encontrar", "deixar", "passar", "ficar", "sentir", "parecer", "trazer",
     "criar", "mostrar", "começar", "levar", "precisar", "esperar", "entender", "colocar", "pensar", "conhecer",
     "viver", "tornar", "buscar", "permitir", "pedir", "usar", "conseguir", "chamar", "existir", "gostar",
     
-    // Adjetivos
+    
     "novo", "bom", "grande", "alto", "pequeno", "próprio", "último", "velho", "certo", "único",
     "melhor", "longo", "maior", "forte", "preciso", "possível", "político", "público", "importante", "nacional",
     "simples", "difícil", "social", "especial", "rápido", "claro", "fácil", "comum", "capaz", "feliz",
@@ -55,7 +55,6 @@ function generateDictionaryDataset() {
 function generateTestCases(dictionary) {
   const testCases = [];
   
-  // 1. Letter substitution
   for (let i = 0; i < 20; i++) {
     const originalWord = dictionary[Math.floor(Math.random() * dictionary.length)];
     if (originalWord.length >= 4) {
@@ -77,7 +76,6 @@ function generateTestCases(dictionary) {
     }
   }
   
-  // 2. Letter removal
   for (let i = 0; i < 20; i++) {
     const originalWord = dictionary[Math.floor(Math.random() * dictionary.length)];
     if (originalWord.length >= 4) {
@@ -96,7 +94,6 @@ function generateTestCases(dictionary) {
     }
   }
   
-  // 3. Letter insertion
   for (let i = 0; i < 20; i++) {
     const originalWord = dictionary[Math.floor(Math.random() * dictionary.length)];
     const position = Math.floor(Math.random() * (originalWord.length + 1));
@@ -116,7 +113,6 @@ function generateTestCases(dictionary) {
     });
   }
   
-  // 4. Distance 2 cases (combination of errors)
   for (let i = 0; i < 20; i++) {
     const originalWord = dictionary[Math.floor(Math.random() * dictionary.length)];
     if (originalWord.length >= 5) {
@@ -149,7 +145,6 @@ function generateTestCases(dictionary) {
     }
   }
   
-  // 5. Cases with distance > 2 (outside correction limit)
   for (let i = 0; i < 10; i++) {
     const originalWord = dictionary[Math.floor(Math.random() * dictionary.length)];
     if (originalWord.length >= 6) {
