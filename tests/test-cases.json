@@ -1,0 +1,542 @@
+[
+  {
+    "type": "Substitution",
+    "word": "inseguinte",
+    "typed": "inseguinke",
+    "description": "Replaces 't' with 'k' at position 8"
+  },
+  {
+    "type": "Substitution",
+    "word": "entender",
+    "typed": "entenjer",
+    "description": "Replaces 'd' with 'j' at position 5"
+  },
+  {
+    "type": "Substitution",
+    "word": "despúblico",
+    "typed": "deapúblico",
+    "description": "Replaces 's' with 'a' at position 2"
+  },
+  {
+    "type": "Substitution",
+    "word": "internacionalmente",
+    "typed": "ifternacionalmente",
+    "description": "Replaces 'n' with 'f' at position 1"
+  },
+  {
+    "type": "Substitution",
+    "word": "pediral",
+    "typed": "pedirao",
+    "description": "Replaces 'l' with 'o' at position 6"
+  },
+  {
+    "type": "Substitution",
+    "word": "rediferente",
+    "typed": "reeiferente",
+    "description": "Replaces 'd' with 'e' at position 2"
+  },
+  {
+    "type": "Substitution",
+    "word": "amigodade",
+    "typed": "aqigodade",
+    "description": "Replaces 'm' with 'q' at position 1"
+  },
+  {
+    "type": "Substitution",
+    "word": "rebuscar",
+    "typed": "rybuscar",
+    "description": "Replaces 'e' with 'y' at position 1"
+  },
+  {
+    "type": "Substitution",
+    "word": "ideiaal",
+    "typed": "idsiaal",
+    "description": "Replaces 'e' with 's' at position 2"
+  },
+  {
+    "type": "Substitution",
+    "word": "fácilista",
+    "typed": "fácilizta",
+    "description": "Replaces 's' with 'z' at position 6"
+  },
+  {
+    "type": "Substitution",
+    "word": "ficarção",
+    "typed": "ficzrção",
+    "description": "Replaces 'a' with 'z' at position 3"
+  },
+  {
+    "type": "Substitution",
+    "word": "desempresa",
+    "typed": "dksempresa",
+    "description": "Replaces 'e' with 'k' at position 1"
+  },
+  {
+    "type": "Substitution",
+    "word": "buscaral",
+    "typed": "buscarae",
+    "description": "Replaces 'l' with 'e' at position 7"
+  },
+  {
+    "type": "Substitution",
+    "word": "guerradade",
+    "typed": "guerjadade",
+    "description": "Replaces 'r' with 'j' at position 4"
+  },
+  {
+    "type": "Substitution",
+    "word": "coisaoso",
+    "typed": "clisaoso",
+    "description": "Replaces 'o' with 'l' at position 1"
+  },
+  {
+    "type": "Substitution",
+    "word": "viveroso",
+    "typed": "vivproso",
+    "description": "Replaces 'e' with 'p' at position 3"
+  },
+  {
+    "type": "Substitution",
+    "word": "final",
+    "typed": "final",
+    "description": "Replaces 'i' with 'i' at position 1"
+  },
+  {
+    "type": "Substitution",
+    "word": "principalista",
+    "typed": "prinzipalista",
+    "description": "Replaces 'c' with 'z' at position 4"
+  },
+  {
+    "type": "Substitution",
+    "word": "superrápido",
+    "typed": "superrspido",
+    "description": "Replaces 'á' with 's' at position 6"
+  },
+  {
+    "type": "Substitution",
+    "word": "palavraoso",
+    "typed": "palauraoso",
+    "description": "Replaces 'v' with 'u' at position 4"
+  },
+  {
+    "type": "Removal",
+    "word": "governomente",
+    "typed": "governomnte",
+    "description": "Removes 'e' at position 8"
+  },
+  {
+    "type": "Removal",
+    "word": "rereal",
+    "typed": "reeal",
+    "description": "Removes 'r' at position 2"
+  },
+  {
+    "type": "Removal",
+    "word": "deslivre",
+    "typed": "desivre",
+    "description": "Removes 'l' at position 3"
+  },
+  {
+    "type": "Removal",
+    "word": "palavraal",
+    "typed": "palvraal",
+    "description": "Removes 'a' at position 3"
+  },
+  {
+    "type": "Removal",
+    "word": "legalal",
+    "typed": "lealal",
+    "description": "Removes 'g' at position 2"
+  },
+  {
+    "type": "Removal",
+    "word": "inícioista",
+    "typed": "iníioista",
+    "description": "Removes 'c' at position 3"
+  },
+  {
+    "type": "Removal",
+    "word": "homemista",
+    "typed": "homemita",
+    "description": "Removes 's' at position 6"
+  },
+  {
+    "type": "Removal",
+    "word": "deixardade",
+    "typed": "eixardade",
+    "description": "Removes 'd' at position 0"
+  },
+  {
+    "type": "Removal",
+    "word": "grandeal",
+    "typed": "randeal",
+    "description": "Removes 'g' at position 0"
+  },
+  {
+    "type": "Removal",
+    "word": "rejovem",
+    "typed": "rejovm",
+    "description": "Removes 'e' at position 5"
+  },
+  {
+    "type": "Removal",
+    "word": "desgrupo",
+    "typed": "desgrpo",
+    "description": "Removes 'u' at position 5"
+  },
+  {
+    "type": "Removal",
+    "word": "supermesa",
+    "typed": "suermesa",
+    "description": "Removes 'p' at position 2"
+  },
+  {
+    "type": "Removal",
+    "word": "inpúblico",
+    "typed": "inpúblio",
+    "description": "Removes 'c' at position 7"
+  },
+  {
+    "type": "Removal",
+    "word": "superolho",
+    "typed": "superolo",
+    "description": "Removes 'h' at position 7"
+  },
+  {
+    "type": "Removal",
+    "word": "desproblema",
+    "typed": "desprblema",
+    "description": "Removes 'o' at position 5"
+  },
+  {
+    "type": "Removal",
+    "word": "supernacional",
+    "typed": "suprnacional",
+    "description": "Removes 'e' at position 3"
+  },
+  {
+    "type": "Removal",
+    "word": "noiteista",
+    "typed": "noiteist",
+    "description": "Removes 'a' at position 8"
+  },
+  {
+    "type": "Removal",
+    "word": "pessoaista",
+    "typed": "pesoaista",
+    "description": "Removes 's' at position 3"
+  },
+  {
+    "type": "Removal",
+    "word": "desgostar",
+    "typed": "desostar",
+    "description": "Removes 'g' at position 3"
+  },
+  {
+    "type": "Removal",
+    "word": "rebom",
+    "typed": "rebm",
+    "description": "Removes 'o' at position 3"
+  },
+  {
+    "type": "Insertion",
+    "word": "econômicodade",
+    "typed": "econrômicodade",
+    "description": "Inserts 'r' at position 4"
+  },
+  {
+    "type": "Insertion",
+    "word": "públicoista",
+    "typed": "públicoispta",
+    "description": "Inserts 'p' at position 9"
+  },
+  {
+    "type": "Insertion",
+    "word": "desgrande",
+    "typed": "desgcrande",
+    "description": "Inserts 'c' at position 4"
+  },
+  {
+    "type": "Insertion",
+    "word": "criarmente",
+    "typed": "criarmkente",
+    "description": "Inserts 'k' at position 6"
+  },
+  {
+    "type": "Insertion",
+    "word": "superfilho",
+    "typed": "suprerfilho",
+    "description": "Inserts 'r' at position 3"
+  },
+  {
+    "type": "Insertion",
+    "word": "entenderdade",
+    "typed": "fentenderdade",
+    "description": "Inserts 'f' at position 0"
+  },
+  {
+    "type": "Insertion",
+    "word": "reempresa",
+    "typed": "reemdpresa",
+    "description": "Inserts 'd' at position 4"
+  },
+  {
+    "type": "Insertion",
+    "word": "socialmente",
+    "typed": "socialmenyte",
+    "description": "Inserts 'y' at position 9"
+  },
+  {
+    "type": "Insertion",
+    "word": "exemplomente",
+    "typed": "exemplomepnte",
+    "description": "Inserts 'p' at position 9"
+  },
+  {
+    "type": "Insertion",
+    "word": "ficaroso",
+    "typed": "ficaronso",
+    "description": "Inserts 'n' at position 6"
+  },
+  {
+    "type": "Insertion",
+    "word": "reinternacional",
+    "typed": "reinternacrional",
+    "description": "Inserts 'r' at position 10"
+  },
+  {
+    "type": "Insertion",
+    "word": "futurodade",
+    "typed": "futurodbade",
+    "description": "Inserts 'b' at position 7"
+  },
+  {
+    "type": "Insertion",
+    "word": "melhorção",
+    "typed": "mbelhorção",
+    "description": "Inserts 'b' at position 1"
+  },
+  {
+    "type": "Insertion",
+    "word": "diferente",
+    "typed": "diferqente",
+    "description": "Inserts 'q' at position 5"
+  },
+  {
+    "type": "Insertion",
+    "word": "filhoção",
+    "typed": "filhotção",
+    "description": "Inserts 't' at position 5"
+  },
+  {
+    "type": "Insertion",
+    "word": "querer",
+    "typed": "queresr",
+    "description": "Inserts 's' at position 5"
+  },
+  {
+    "type": "Insertion",
+    "word": "reseguinte",
+    "typed": "freseguinte",
+    "description": "Inserts 'f' at position 0"
+  },
+  {
+    "type": "Insertion",
+    "word": "possívelção",
+    "typed": "possívpelção",
+    "description": "Inserts 'p' at position 6"
+  },
+  {
+    "type": "Insertion",
+    "word": "resocial",
+    "typed": "rsesocial",
+    "description": "Inserts 's' at position 1"
+  },
+  {
+    "type": "Insertion",
+    "word": "querermente",
+    "typed": "quereurmente",
+    "description": "Inserts 'u' at position 5"
+  },
+  {
+    "type": "Distance 2",
+    "word": "buscar",
+    "typed": "buscyc",
+    "description": "Substitutes characters at positions 4 and 5"
+  },
+  {
+    "type": "Distance 2",
+    "word": "inpolítico",
+    "typed": "irpolíhico",
+    "description": "Substitutes characters at positions 1 and 6"
+  },
+  {
+    "type": "Distance 2",
+    "word": "prontodade",
+    "typed": "prlntodide",
+    "description": "Substitutes characters at positions 2 and 7"
+  },
+  {
+    "type": "Distance 2",
+    "word": "saber",
+    "typed": "scbor",
+    "description": "Substitutes characters at positions 3 and 1"
+  },
+  {
+    "type": "Distance 2",
+    "word": "infalar",
+    "typed": "iqfalap",
+    "description": "Substitutes characters at positions 6 and 1"
+  },
+  {
+    "type": "Distance 2",
+    "word": "coisação",
+    "typed": "eoysação",
+    "description": "Substitutes characters at positions 2 and 0"
+  },
+  {
+    "type": "Distance 2",
+    "word": "inúnico",
+    "typed": "gnúnijo",
+    "description": "Substitutes characters at positions 5 and 0"
+  },
+  {
+    "type": "Distance 2",
+    "word": "encontraral",
+    "typed": "encanzraral",
+    "description": "Substitutes characters at positions 3 and 5"
+  },
+  {
+    "type": "Distance 2",
+    "word": "prontodade",
+    "typed": "pronkodjde",
+    "description": "Substitutes characters at positions 4 and 7"
+  },
+  {
+    "type": "Distance 2",
+    "word": "empresaoso",
+    "typed": "empresaosv",
+    "description": "Substitutes characters at positions 9 and 0"
+  },
+  {
+    "type": "Distance 2",
+    "word": "deschão",
+    "typed": "dndchão",
+    "description": "Substitutes characters at positions 2 and 1"
+  },
+  {
+    "type": "Distance 2",
+    "word": "desquestão",
+    "typed": "desqueloão",
+    "description": "Substitutes characters at positions 6 and 7"
+  },
+  {
+    "type": "Distance 2",
+    "word": "felizal",
+    "typed": "belyzal",
+    "description": "Substitutes characters at positions 3 and 0"
+  },
+  {
+    "type": "Distance 2",
+    "word": "reestar",
+    "typed": "rwespar",
+    "description": "Substitutes characters at positions 1 and 4"
+  },
+  {
+    "type": "Distance 2",
+    "word": "superpassar",
+    "typed": "siperpaswar",
+    "description": "Substitutes characters at positions 1 and 8"
+  },
+  {
+    "type": "Distance 2",
+    "word": "razãoção",
+    "typed": "xazãkção",
+    "description": "Substitutes characters at positions 4 and 0"
+  },
+  {
+    "type": "Distance 2",
+    "word": "superbonito",
+    "typed": "supqabonito",
+    "description": "Substitutes characters at positions 4 and 3"
+  },
+  {
+    "type": "Distance 2",
+    "word": "supermão",
+    "typed": "supqrmãj",
+    "description": "Substitutes characters at positions 3 and 7"
+  },
+  {
+    "type": "Distance 2",
+    "word": "inseguinte",
+    "typed": "insegjinto",
+    "description": "Substitutes characters at positions 9 and 5"
+  },
+  {
+    "type": "Distance 2",
+    "word": "jovemal",
+    "typed": "joxezal",
+    "description": "Substitutes characters at positions 2 and 4"
+  },
+  {
+    "type": "Beyond limit",
+    "word": "passarção",
+    "typed": "pasiurçãh",
+    "description": "Three substitutions (distance > 2)"
+  },
+  {
+    "type": "Beyond limit",
+    "word": "velhoal",
+    "typed": "kelhtil",
+    "description": "Three substitutions (distance > 2)"
+  },
+  {
+    "type": "Beyond limit",
+    "word": "fácildade",
+    "typed": "fámildaog",
+    "description": "Three substitutions (distance > 2)"
+  },
+  {
+    "type": "Beyond limit",
+    "word": "falaroso",
+    "typed": "fnxaroso",
+    "description": "Three substitutions (distance > 2)"
+  },
+  {
+    "type": "Beyond limit",
+    "word": "supervelho",
+    "typed": "spnetvelho",
+    "description": "Three substitutions (distance > 2)"
+  },
+  {
+    "type": "Beyond limit",
+    "word": "descapaz",
+    "typed": "ohscapzz",
+    "description": "Three substitutions (distance > 2)"
+  },
+  {
+    "type": "Beyond limit",
+    "word": "retrazer",
+    "typed": "eetwazkr",
+    "description": "Three substitutions (distance > 2)"
+  },
+  {
+    "type": "Beyond limit",
+    "word": "superfazer",
+    "typed": "sgperfezir",
+    "description": "Three substitutions (distance > 2)"
+  },
+  {
+    "type": "Beyond limit",
+    "word": "diferenteista",
+    "typed": "diferezteqsty",
+    "description": "Three substitutions (distance > 2)"
+  },
+  {
+    "type": "Beyond limit",
+    "word": "futuroção",
+    "typed": "flturokãd",
+    "description": "Three substitutions (distance > 2)"
+  }
+]
